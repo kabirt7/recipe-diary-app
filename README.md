@@ -6,8 +6,6 @@ Problem: when trying a new recipe, it's often advised to make it multiple times 
 
 Solution: I want to create a website where you can log attempts of making a dish. I want this to also be a platform where people can share their recipes. However, what makes this functionality different is that people can share their own takes on a recipe. I think this is a fun way to share how different people can put their own spin on the same dish. 
 
-Bonus: It will function as a social media site where people can share their own spin on others' recipes !
-
 ## MVP
 
 * CRUD capability creating the recipe
