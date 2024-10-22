@@ -51,3 +51,16 @@ Solution: I want to create a website where you can log attempts of making a dish
 
 ## Technology
 * TSX, Redux, AWS, mySQL, Java (SB)
+
+
+## LOG
+
+### 21/10/24
+
+* initalised the front and back end
+* planned out the nav bar appearance
+* planned out the flow of the site including the home page and account page functionality
+
+### 22/10/24
+
+* working through this tutorial to get a better understanding of how to implement spring security https://spring.io/guides/gs/securing-web#scratch
