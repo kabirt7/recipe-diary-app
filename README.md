@@ -75,3 +75,11 @@ Solution: I want to create a website where you can log attempts of making a dish
 2. implement a UserDetailsService that loads the user from the database
 3. configure spring security (similar to how the previous tutorial implemented it)
 4. create endpoints for login, registration, logout
+
+### 31/10/24
+
+* added spring security to pom
+* finished my User Entity - it includes lombok all and no args constructors for readability's sake
+  - I still need to edit the Id to be serialised to work with the UserDetails interface
+  - needed to add Authority portion for the UserDetails interface, override is necessary since it is an implementation
+      
