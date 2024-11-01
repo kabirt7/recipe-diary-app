@@ -1,0 +1,1 @@
+package recipe.diary.backend.recipe_diary_backend.posts;
