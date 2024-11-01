@@ -64,3 +64,14 @@ Solution: I want to create a website where you can log attempts of making a dish
 ### 22/10/24
 
 * working through this tutorial to get a better understanding of how to implement spring security https://spring.io/guides/gs/securing-web#scratch
+
+### 30/10/24
+
+* worked through the tutorial to understand the basics
+* I want to implement a registration system for users which will require a different implementation
+* from my research, the implementation will be as follows:
+
+1. create a UserDetails entity
+2. implement a UserDetailsService that loads the user from the database
+3. configure spring security (similar to how the previous tutorial implemented it)
+4. create endpoints for login, registration, logout
